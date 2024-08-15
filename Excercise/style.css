@@ -1,0 +1,57 @@
+body{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    background-color: white;
+    margin: 0;
+    padding: 1rem 2rem 2rem 4rem;
+    border: 15px solid blueviolet;
+    border-radius: 50px;
+}
+.box2{
+    display: flex;
+}
+header{
+    display: flex;
+}
+ul{
+    padding-left: 70%;
+    display: flex;
+}
+li{
+    
+    display: flex;
+    padding-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+b{
+    color: rgb(227, 6, 198);
+}
+.atc1{
+    margin-left: 50%;
+
+}
+.atc1 img{
+    border-radius: 50%;
+}
+section{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+button{
+    font-size: large;
+    border-radius: 5px;
+    border: none;
+    padding: 15px;
+    color: white;
+    min-height: 30px;
+    min-width: 120px;
+    background-color: rgb(227, 6, 198);
+}
+footer{
+    margin-top: 20px;
+}
