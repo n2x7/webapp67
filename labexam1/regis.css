@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(bg.jpg);
+    object-fit: fill;
+
+}
+.box{
+    border-radius: 10px;
+    padding-top: 3rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin-top: 5rem;
+    margin-left: 50rem;
+    margin-right: 50rem;
+    height: 63rem;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h2{
+    text-align:center;
+    font-weight: bold;
+    font-size: 2rem;
+    padding-bottom: 3rem;
+}
+h4{
+    font-weight: bold;
+    font-size: 1rem;
+}
+label{
+
+    font-weight: lighter;
+}
+.label2,.label5,.label7,.label9,.label11{
+    padding-left: 13rem;
+}
+input{
+    border: 1px solid grey;
+    border-radius: 3px;
+    width: 15rem;
+    height: 2rem;
+}
+section{
+    text-align: center;
+    display: flex;
+}
+select {
+    justify-content: center;
+    justify-items: center;
+    padding: 12px 16px;
+    border: 1px solid grey;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
